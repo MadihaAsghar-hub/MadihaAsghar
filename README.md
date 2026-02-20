@@ -30,7 +30,7 @@ Financial analysis of county income statements using Excel visualizations.
 - Expenses by Department (Line Chart)  
 - Trend Analysis Across 3 Years  
 
-🔗 Repository: [Pierce County Financials](https://github.com/YOUR-USERNAME/pierce-county-financials-2019-2021)
+🔗 Repository: [Pierce County Financials](https://github.com/MadihaAsghar-hub/pierce-county-financials-2019-2021.git)
 
 ---
 
