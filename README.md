@@ -34,7 +34,7 @@ Financial analysis of county income statements using Excel visualizations.
 
 ---
 
-### 🚗 National Mobility Overview (Power BI Dashboard)
+### 🚗 US Mobility Socio-Economic Analysis (Power BI Dashboard)
 Interactive dashboard analyzing national mobility trends across counties and demographics.
 
 - Mobility by County  
@@ -43,7 +43,7 @@ Interactive dashboard analyzing national mobility trends across counties and dem
 - Race & Credit Score Trends  
 - Interactive Power BI Visualizations  
 
-🔗 Repository: [National Mobility Overview](https://github.com/YOUR-USERNAME/national-mobility-overview)
+🔗 Repository: [National Mobility Overview](https://github.com/MadihaAsghar-hub/US-mobility-socioeconomic-analysis.git)
 
 ---
 
