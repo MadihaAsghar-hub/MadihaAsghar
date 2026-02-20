@@ -18,7 +18,7 @@ Regression modeling on the UCI Communities and Crime dataset to explore how soci
 - Ridge Regression (R² = 0.654)  
 - Distribution Analysis of Violent Crime  
 
-🔗 Repository: [Communities & Crime Analysis](https://github.com/YOUR-USERNAME/communities-crime-analysis)
+🔗 Repository: [Communities & Crime Analysis](https://github.com/MadihaAsghar-hub/Communities-and-crime-project.git)
 
 ---
 
