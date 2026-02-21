@@ -1,5 +1,4 @@
 # MadihaAsghar
-Bio
 # Hi, I'm Madiha Asghar 👋
 
 🎓 Data Analytics Enthusiast  
