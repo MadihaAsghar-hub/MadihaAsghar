@@ -1,4 +1,4 @@
-# MadihaAsghar
+# MadihaAsghar_Portfolio
 # Hi, I'm Madiha Asghar 👋
 
 🎓 Data Analytics Enthusiast  
