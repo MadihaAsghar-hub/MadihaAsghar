@@ -21,7 +21,7 @@ Regression modeling on the UCI Communities and Crime dataset to explore how soci
 
 ---
 
-### 💰 Pierce County Financial Analysis (2019–2021)
+### 💰 Pierce County Financial Analysis For the Years (2019–2021)
 Financial analysis of county income statements using Excel visualizations.
 
 - Revenue & Expense Tables  
@@ -49,13 +49,14 @@ Interactive dashboard analyzing national mobility trends across counties and dem
 ## 🛠 Technical Skills
 
 **Programming & Analysis**
-- Python (Pandas, NumPy, Scikit-learn)
+- Python (Pandas, NumPy, Matplotlib, Scipy)
 - SQL
 - Jupyter Notebook
 
 **Data Visualization**
 - Power BI
 - Excel (Pivot Tables, Charts, Financial Analysis)
+- Tableau
 
 **Other Tools**
 - Git & GitHub
